@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(73, 89, 104);
+    color: aliceblue;
+    text-align: center;
+}
+#countLabel {
+    display: block;
+    font-size: 10em;
+}
+
