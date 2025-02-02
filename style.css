@@ -6,5 +6,23 @@ body {
 #countLabel {
     display: block;
     font-size: 10em;
+    font-family: helvetica;
 }
 
+#buttonsctn {
+    text-align: center;
+
+}
+
+.buttons {
+    padding: 10px 20px;
+    font-size: 1.75em;
+    font-weight: bolder;
+    border: 100px;
+    cursor: pointer;
+    background-color: rgb(92, 143, 126);
+    transition: backround-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgb(79, 126, 111);
+}
